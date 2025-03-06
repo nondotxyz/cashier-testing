@@ -1,0 +1,3 @@
+<template>
+    Emotional moment
+</template>
